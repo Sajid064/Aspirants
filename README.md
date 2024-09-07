@@ -13,8 +13,8 @@
 ## Screenshots:
 
 <span>
-<img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/1.jpg" width = "400" height = "220"/>
-<img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/2.JPG" width = "400" height = "220"/>
+<img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/1.jpg" width = "410" height = "220"/>
+<img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/2.JPG" width = "410" height = "220"/>
 <img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/3.JPG" width = "400" height = "220"/>
 <img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/4.JPG" width = "400" height = "220"/>
 <img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/5.JPG" width = "400" height = "220"/>
