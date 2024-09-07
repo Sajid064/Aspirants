@@ -14,7 +14,7 @@
 
 <p>
 <img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/1.jpg" width = "405" height = "240"/>
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/2.JPG" width = "410" height = "240"/>
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/2.JPG" width = "405" height = "240"/>
 </p>
 <p>
 <img src="https://github.com/Sajid064/Aspirants/blob/main/Screenshots/3.JPG" width = "405" height = "240"/>
